@@ -1,0 +1,21 @@
+# Docker & Frappe site volumes / credentials
+sites/
+logs/
+.env
+*.log
+*.sqlite
+*.sql
+*.tar.gz
+*.bak
+
+# Node dependencies
+node_modules/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
+
