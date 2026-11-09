@@ -1,11 +1,5 @@
 # Academic ERP Brochure: Inventory & Procurement Management
 
-**Elective Course:** Enterprise Business Systems (EBS) — CSE Elective  
-**Academic Year:** 2026–2027  
-**Department:** Computer Science & Engineering  
-
----
-
 <!-- ================= PAGE 1 ================= -->
 # [PAGE 1: Enterprise Overview & System Architecture]
 

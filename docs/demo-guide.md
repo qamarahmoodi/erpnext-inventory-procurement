@@ -1,13 +1,5 @@
 # 5-Minute ERP Demonstration Script: Inventory & Procurement
 
-**Evaluator:** Professor / Course Examiner  
-**Student Presenter:** [Your Name / Team]  
-**Course:** Enterprise Business Systems (EBS)  
-**System URL:** `http://localhost:8080`  
-**Credentials:** Username: `Administrator` | Password: `admin`  
-
----
-
 ## Demonstration Outline
 
 | Minute | Stage | ERPNext Screen / URL | Core EBS Concept Highlighted |
